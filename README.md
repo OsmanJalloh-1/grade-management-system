@@ -16,7 +16,7 @@ A console-based Python application to securely manage student grades.
 - json
 
 ## Installation & How to Run
-1. Clone the repo:git clone https://github.com/OsmanJalloh-1/grade-management-system.gittext2. Navigate: `cd grade-management-system`
+1. Clone the repo:git clone https://github.com/OsmanJalloh-1/grade-management-system.gittext. Navigate: `cd grade-management-system`
 3. Run: `SGMS.py`
 
 ## What I Learned
