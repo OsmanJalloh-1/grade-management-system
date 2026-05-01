@@ -17,7 +17,7 @@ A console-based Python application to securely manage student grades.
 
 ## Installation & How to Run
 1. Clone the repo:git clone https://github.com/OsmanJalloh-1/grade-management-system. Navigate: `cd grade-management-system`
-3. Run: `SGMS.py`
+3. Run: `SGMS.py` and 'sgms_gui.py'
 
 ## What I Learned
 - Implementing secure password storage
