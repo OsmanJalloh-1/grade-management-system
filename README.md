@@ -1,6 +1,6 @@
 # Grade Management System
 
-A console-based Python application to securely manage student grades.
+A user interfaced designed Python application to securely manage student grades.
 
 ## Features
 - User authentication with SHA-256 password hashing
