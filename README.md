@@ -4,7 +4,7 @@ A user interfaced designed Python application to securely manage student grades.
 
 ## Features
 - User authentication with SHA-256 password hashing
-- Role-based access (admin / student)
+- Role-based access (admin / student/ teacher)
 - Add/view/update grades
 - Basic analytics (average, highest/lowest)
 - Data persistence with JSON files
